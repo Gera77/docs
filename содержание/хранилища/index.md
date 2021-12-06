@@ -14,7 +14,7 @@ children:
   - /creating-and-managing-repositories
   - /managing-your-repositorys-settings-and-features
   - /configuring-branches-and-merges-in-your-repository
-  - /working-with-files
+  - /working-with-fееl
   - /releasing-projects-on-github
   - /viewing-activity-and-data-for-your-repository
   - /archiving-a-github-repository
